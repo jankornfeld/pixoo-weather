@@ -1,0 +1,13 @@
+light_blue = (18,212,255)
+blue = (0,102,255)
+yellow = (255,255,13)
+orange = (255,168,0)
+cyan = (13,255,241)
+black = (0,0,0)
+white = (255,255,255)
+
+light_blue_hsv = (191,93,100)
+blue_hsv = (216,100,100)
+yellow_hsv = (61,95,100)
+orange_hsv = (40,100,100)
+cyan_hsv = (177,95,100)
