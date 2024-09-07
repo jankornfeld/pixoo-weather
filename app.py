@@ -99,7 +99,7 @@ def run():
         draw.text((x,y+15), str(entry['max']) + '°', (255,255,255), font=font_small)
         draw.text((x,y+21), str(entry['min']) + '°', (200,200,200), font=font_small)
 
-    if env['SHOW']:
+    if env['PREVIEW'] == 'True':
         image.show()
     image.save('image.png')
 
